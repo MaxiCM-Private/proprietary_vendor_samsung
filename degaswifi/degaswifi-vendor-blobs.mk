@@ -144,7 +144,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/degaswifi/proprietary/lib/libseccamera_jni.so:system/lib/libseccamera_jni.so \
     vendor/samsung/degaswifi/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
     vendor/samsung/degaswifi/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
-    vendor/samsung/degaswifi/proprietary/lib/libsoundpool.so:system/lib/libsoundpool.so \
     vendor/samsung/degaswifi/proprietary/lib/libsoundspeed.so:system/lib/libsoundspeed.so \
     vendor/samsung/degaswifi/proprietary/lib/libwvm.so:system/lib/libwvm.so \
     vendor/samsung/degaswifi/proprietary/usr/idc/Synaptics_HID_TouchPad.idc:system/usr/idc/Synaptics_HID_TouchPad.idc \
