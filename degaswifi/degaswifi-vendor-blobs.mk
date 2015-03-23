@@ -108,7 +108,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/degaswifi/proprietary/etc/rom.bin:system/etc/rom.bin \
     vendor/samsung/degaswifi/proprietary/etc/sensor_config.xml:system/etc/sensor_config.xml \
     vendor/samsung/degaswifi/proprietary/lib/egl/libEGL_MRVL.so:system/lib/egl/libEGL_MRVL.so \
-    vendor/samsung/degaswifi/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/samsung/degaswifi/proprietary/lib/egl/libGLESv1_CM_MRVL.so:system/lib/egl/libGLESv1_CM_MRVL.so \
     vendor/samsung/degaswifi/proprietary/lib/egl/libGLESv2_MRVL.so:system/lib/egl/libGLESv2_MRVL.so \
     vendor/samsung/degaswifi/proprietary/lib/hw/audio.primary.mrvl.so:system/lib/hw/audio.primary.mrvl.so \
