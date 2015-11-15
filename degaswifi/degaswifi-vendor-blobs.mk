@@ -120,8 +120,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/degaswifi/proprietary/lib/hw/audio_policy.mrvl.so:system/lib/hw/audio_policy.mrvl.so \
     vendor/samsung/degaswifi/proprietary/lib/hw/camera.mrvl.so:system/lib/hw/camera.mrvl.so \
     vendor/samsung/degaswifi/proprietary/lib/hw/consumerir.mrvl.so:system/lib/hw/consumerir.mrvl.so \
-    vendor/samsung/degaswifi/proprietary/lib/hw/gralloc.mrvl.so:system/lib/hw/gralloc.mrvl.so \
-    vendor/samsung/degaswifi/proprietary/lib/hw/hwcomposer.mrvl.so:system/lib/hw/hwcomposer.mrvl.so \
     vendor/samsung/degaswifi/proprietary/lib/hw/power.mrvl.so:system/lib/hw/power.mrvl.so \
     vendor/samsung/degaswifi/proprietary/lib/hw/sensors.mrvl.so:system/lib/hw/sensors.mrvl.so \
     vendor/samsung/degaswifi/proprietary/lib/libGAL.so:system/lib/libGAL.so \
